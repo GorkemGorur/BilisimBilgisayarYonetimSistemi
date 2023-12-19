@@ -1,0 +1,110 @@
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\BIP\Desktop\Yeni klasör\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+C:\Users\BIP\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+K:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Urun.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Urun.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\sql ÖDEV KODLAR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Urun.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AnaForm.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Musteri.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Fatura.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Urun.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.BakimFormu.resources
+C:\Users\GORKEM\Desktop\SİSTEM ANALİZİ VİZE\Sistem Analizi Projem\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.PersonelKayit.resources
